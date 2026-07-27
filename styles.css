@@ -291,7 +291,7 @@ h1 span {
 
 .brain-lobe {
   position: absolute;
-  background: var(--pink);
+  background: var(--yellow);
   border: 6px solid var(--ink);
   border-radius: 48% 55% 44% 52%;
 }

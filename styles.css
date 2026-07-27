@@ -527,7 +527,7 @@ h2 {
 .card-content a {
   display: inline-block;
   font-weight: 800;
-  border-bottom: 3px solid var(--ink);
+  border-bottom: 3px solid var(--cream);
 }
 
 .car {

@@ -1,12 +1,12 @@
 :root {
   --ink: #171719;
-  --cream: #f7f2e8;
-  --yellow: #f3c548;
+  --cream: #fffbef;
+  --yellow: #feb7c1;
   --blue: #8ecae6;
   --pink: #f4a7b9;
   --green: #8dd3a9;
-  --purple: #8d78d6;
-  --white: #fffdf8;
+  --purple: #9f3d66;
+  --white: #fffbef;
   --line: 3px solid var(--ink);
   --shadow: 8px 8px 0 var(--ink);
 }

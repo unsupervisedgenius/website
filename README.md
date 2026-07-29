@@ -14,9 +14,3 @@ A responsive one-page website for the YouTube channel **Unsupervised Genius**.
 Your site will then be available at:
 
 `https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/`
-
-## Customize
-
-Replace the placeholder YouTube, Instagram and TikTok links in `index.html` with your real links.
-
-The page uses Google Fonts. For a fully offline version, replace the font import with locally hosted fonts.
